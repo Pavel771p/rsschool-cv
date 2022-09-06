@@ -6,8 +6,8 @@
 
 ## About Myself
 I want to switch to a Front-End developer. I have a background in the supply chain, logistics and retail industry.
-## Skils
-No skills in software development yet.
+## Skills
+No skills in software development.
 ## Code example
 ```
 // the hello world program
